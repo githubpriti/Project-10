@@ -184,9 +184,7 @@ nav{
     }
     .nav-list{
         width: 500px;
-        justify-content: flex-end;
-        /* display: flex; */
-        flex-direction: column;
+        /* margin-left: -100px; */
         gap: 0px;
     }
     .left>h1{
@@ -218,6 +216,7 @@ nav{
     }
     .nav-list{
         padding: 25px 0;
+        flex-direction: column;
     }
     .left>h1{
         font-size: 1.8rem;

@@ -1,6 +1,6 @@
-# Project 9:))
+# Project 9:
 
-[Live link](https://silver-seahorse-301edc.netlify.app)
+[Live link](https://project-10-sandy.vercel.app/)
 ## Name:Vaishnavi Jaju
 
 **The project took 3 hrs to complete.**
